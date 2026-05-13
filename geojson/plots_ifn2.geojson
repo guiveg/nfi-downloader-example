@@ -22,8 +22,8 @@
             "ageInYears": 23,
             "numberTreesHa": 141.31,
             "basalAreaM2Ha": 11.4548589,
-            "volumeWithBarkM3Ha": 42.7422,
-            "volumeWithoutBarkM3Ha": 56.402757
+            "volumeOverBarkM3Ha": 56.402757,
+            "volumeUnderBarkM3Ha": 42.7422
           },
           {
             "infoSpeciesId": "plot-40-36-Species26",
@@ -34,8 +34,8 @@
             "ageInYears": 26,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 1.0650323,
-            "volumeWithBarkM3Ha": 4.4280436,
-            "volumeWithoutBarkM3Ha": 5.8020067
+            "volumeOverBarkM3Ha": 5.8020067,
+            "volumeUnderBarkM3Ha": 4.4280436
           }
         ],
         "trees": [
@@ -83,8 +83,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.7378865,
-            "volumeWithBarkM3Ha": 2.3265598,
-            "volumeWithoutBarkM3Ha": 3.1212114
+            "volumeOverBarkM3Ha": 3.1212114,
+            "volumeUnderBarkM3Ha": 2.3265598
           },
           {
             "infoSpeciesId": "plot-40-37-Species26",
@@ -95,8 +95,8 @@
             "ageInYears": 26,
             "numberTreesHa": 505.72,
             "basalAreaM2Ha": 26.5421371,
-            "volumeWithBarkM3Ha": 93.162994,
-            "volumeWithoutBarkM3Ha": 140.8384623
+            "volumeOverBarkM3Ha": 140.8384623,
+            "volumeUnderBarkM3Ha": 93.162994
           }
         ],
         "trees": [
@@ -163,8 +163,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.2618671,
-            "volumeWithBarkM3Ha": 3.4729526,
-            "volumeWithoutBarkM3Ha": 4.8251597
+            "volumeOverBarkM3Ha": 4.8251597,
+            "volumeUnderBarkM3Ha": 3.4729526
           },
           {
             "infoSpeciesId": "plot-40-40-Species26",
@@ -175,8 +175,8 @@
             "ageInYears": 26,
             "numberTreesHa": 380.24,
             "basalAreaM2Ha": 19.5271545,
-            "volumeWithBarkM3Ha": 65.8308281,
-            "volumeWithoutBarkM3Ha": 96.9737035
+            "volumeOverBarkM3Ha": 96.9737035,
+            "volumeUnderBarkM3Ha": 65.8308281
           }
         ],
         "trees": [
@@ -234,8 +234,8 @@
             "ageInYears": 23,
             "numberTreesHa": 429.48,
             "basalAreaM2Ha": 16.796429,
-            "volumeWithBarkM3Ha": 42.9550146,
-            "volumeWithoutBarkM3Ha": 63.3549659
+            "volumeOverBarkM3Ha": 63.3549659,
+            "volumeUnderBarkM3Ha": 42.9550146
           },
           {
             "infoSpeciesId": "plot-40-47-Species26",
@@ -246,8 +246,8 @@
             "ageInYears": 26,
             "numberTreesHa": 89.96,
             "basalAreaM2Ha": 8.3432659,
-            "volumeWithBarkM3Ha": 28.6888302,
-            "volumeWithoutBarkM3Ha": 44.6346539
+            "volumeOverBarkM3Ha": 44.6346539,
+            "volumeUnderBarkM3Ha": 28.6888302
           }
         ],
         "trees": [
@@ -307,8 +307,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.7248305,
-            "volumeWithBarkM3Ha": 6.0867297,
-            "volumeWithoutBarkM3Ha": 8.1935604
+            "volumeOverBarkM3Ha": 8.1935604,
+            "volumeUnderBarkM3Ha": 6.0867297
           },
           {
             "infoSpeciesId": "plot-40-73-Species26",
@@ -319,8 +319,8 @@
             "ageInYears": 26,
             "numberTreesHa": 39.59,
             "basalAreaM2Ha": 6.713486,
-            "volumeWithBarkM3Ha": 36.3768709,
-            "volumeWithoutBarkM3Ha": 46.7966513
+            "volumeOverBarkM3Ha": 46.7966513,
+            "volumeUnderBarkM3Ha": 36.3768709
           }
         ],
         "trees": [
@@ -369,8 +369,8 @@
             "ageInYears": 26,
             "numberTreesHa": 561.04,
             "basalAreaM2Ha": 18.2098934,
-            "volumeWithBarkM3Ha": 72.1290264,
-            "volumeWithoutBarkM3Ha": 101.0237751
+            "volumeOverBarkM3Ha": 101.0237751,
+            "volumeUnderBarkM3Ha": 72.1290264
           },
           {
             "infoSpeciesId": "plot-40-95-Species23",
@@ -381,8 +381,8 @@
             "ageInYears": 23,
             "numberTreesHa": 63.66,
             "basalAreaM2Ha": 1.1266232,
-            "volumeWithBarkM3Ha": 2.3445696,
-            "volumeWithoutBarkM3Ha": 4.0296772
+            "volumeOverBarkM3Ha": 4.0296772,
+            "volumeUnderBarkM3Ha": 2.3445696
           }
         ],
         "trees": [
@@ -436,8 +436,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.4600581,
-            "volumeWithBarkM3Ha": 4.2234623,
-            "volumeWithoutBarkM3Ha": 5.8025688
+            "volumeOverBarkM3Ha": 5.8025688,
+            "volumeUnderBarkM3Ha": 4.2234623
           },
           {
             "infoSpeciesId": "plot-40-102-Species26",
@@ -448,8 +448,8 @@
             "ageInYears": 26,
             "numberTreesHa": 147.8,
             "basalAreaM2Ha": 23.6987344,
-            "volumeWithBarkM3Ha": 117.5667119,
-            "volumeWithoutBarkM3Ha": 154.1130287
+            "volumeOverBarkM3Ha": 154.1130287,
+            "volumeUnderBarkM3Ha": 117.5667119
           }
         ],
         "trees": [
@@ -507,8 +507,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.7992424,
-            "volumeWithBarkM3Ha": 2.505813,
-            "volumeWithoutBarkM3Ha": 3.3473238
+            "volumeOverBarkM3Ha": 3.3473238,
+            "volumeUnderBarkM3Ha": 2.505813
           },
           {
             "infoSpeciesId": "plot-40-364-Species26",
@@ -519,8 +519,8 @@
             "ageInYears": 26,
             "numberTreesHa": 236.52,
             "basalAreaM2Ha": 18.1896914,
-            "volumeWithBarkM3Ha": 61.8079394,
-            "volumeWithoutBarkM3Ha": 97.4105701
+            "volumeOverBarkM3Ha": 97.4105701,
+            "volumeUnderBarkM3Ha": 61.8079394
           }
         ],
         "trees": [
@@ -574,8 +574,8 @@
             "ageInYears": 23,
             "numberTreesHa": 127.32,
             "basalAreaM2Ha": 1.1024985,
-            "volumeWithBarkM3Ha": 0.4777578,
-            "volumeWithoutBarkM3Ha": 2.3359879
+            "volumeOverBarkM3Ha": 2.3359879,
+            "volumeUnderBarkM3Ha": 0.4777578
           },
           {
             "infoSpeciesId": "plot-40-372-Species26",
@@ -586,8 +586,8 @@
             "ageInYears": 26,
             "numberTreesHa": 245.57,
             "basalAreaM2Ha": 12.5365441,
-            "volumeWithBarkM3Ha": 42.1816112,
-            "volumeWithoutBarkM3Ha": 65.5320368
+            "volumeOverBarkM3Ha": 65.5320368,
+            "volumeUnderBarkM3Ha": 42.1816112
           }
         ],
         "trees": [
@@ -633,8 +633,8 @@
             "ageInYears": 23,
             "numberTreesHa": 10.18,
             "basalAreaM2Ha": 1.8190244,
-            "volumeWithBarkM3Ha": 6.5749768,
-            "volumeWithoutBarkM3Ha": 8.6338547
+            "volumeOverBarkM3Ha": 8.6338547,
+            "volumeUnderBarkM3Ha": 6.5749768
           },
           {
             "infoSpeciesId": "plot-40-373-Species26",
@@ -645,8 +645,8 @@
             "ageInYears": 26,
             "numberTreesHa": 174.83,
             "basalAreaM2Ha": 5.2163392,
-            "volumeWithBarkM3Ha": 15.2492245,
-            "volumeWithoutBarkM3Ha": 22.8570735
+            "volumeOverBarkM3Ha": 22.8570735,
+            "volumeUnderBarkM3Ha": 15.2492245
           }
         ],
         "trees": [
@@ -688,8 +688,8 @@
             "ageInYears": 23,
             "numberTreesHa": 97.04,
             "basalAreaM2Ha": 4.0886158,
-            "volumeWithBarkM3Ha": 9.273238,
-            "volumeWithoutBarkM3Ha": 13.6983419
+            "volumeOverBarkM3Ha": 13.6983419,
+            "volumeUnderBarkM3Ha": 9.273238
           },
           {
             "infoSpeciesId": "plot-40-378-Species26",
@@ -700,8 +700,8 @@
             "ageInYears": 26,
             "numberTreesHa": 91.94,
             "basalAreaM2Ha": 3.9416152,
-            "volumeWithBarkM3Ha": 9.3431212,
-            "volumeWithoutBarkM3Ha": 16.105811
+            "volumeOverBarkM3Ha": 16.105811,
+            "volumeUnderBarkM3Ha": 9.3431212
           }
         ],
         "trees": [
@@ -745,8 +745,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.870496,
-            "volumeWithBarkM3Ha": 3.4356272,
-            "volumeWithoutBarkM3Ha": 4.5012708
+            "volumeOverBarkM3Ha": 4.5012708,
+            "volumeUnderBarkM3Ha": 3.4356272
           },
           {
             "infoSpeciesId": "plot-40-396-Species26",
@@ -757,8 +757,8 @@
             "ageInYears": 26,
             "numberTreesHa": 226.34,
             "basalAreaM2Ha": 16.6969371,
-            "volumeWithBarkM3Ha": 80.2388781,
-            "volumeWithoutBarkM3Ha": 114.6783646
+            "volumeOverBarkM3Ha": 114.6783646,
+            "volumeUnderBarkM3Ha": 80.2388781
           }
         ],
         "trees": [
@@ -810,8 +810,8 @@
             "ageInYears": 23,
             "numberTreesHa": 40.73,
             "basalAreaM2Ha": 7.3620928,
-            "volumeWithBarkM3Ha": 33.0744389,
-            "volumeWithoutBarkM3Ha": 42.6419847
+            "volumeOverBarkM3Ha": 42.6419847,
+            "volumeUnderBarkM3Ha": 33.0744389
           },
           {
             "infoSpeciesId": "plot-40-422-Species26",
@@ -822,8 +822,8 @@
             "ageInYears": 26,
             "numberTreesHa": 47.52,
             "basalAreaM2Ha": 5.5104578,
-            "volumeWithBarkM3Ha": 23.5316684,
-            "volumeWithoutBarkM3Ha": 34.3063492
+            "volumeOverBarkM3Ha": 34.3063492,
+            "volumeUnderBarkM3Ha": 23.5316684
           }
         ],
         "trees": [
@@ -870,8 +870,8 @@
             "ageInYears": 23,
             "numberTreesHa": 42.43,
             "basalAreaM2Ha": 2.6511138,
-            "volumeWithBarkM3Ha": 9.5290443,
-            "volumeWithoutBarkM3Ha": 13.2866629
+            "volumeOverBarkM3Ha": 13.2866629,
+            "volumeUnderBarkM3Ha": 9.5290443
           },
           {
             "infoSpeciesId": "plot-40-432-Species26",
@@ -882,8 +882,8 @@
             "ageInYears": 26,
             "numberTreesHa": 142.16,
             "basalAreaM2Ha": 14.5444565,
-            "volumeWithBarkM3Ha": 50.0171355,
-            "volumeWithoutBarkM3Ha": 77.2994946
+            "volumeOverBarkM3Ha": 77.2994946,
+            "volumeUnderBarkM3Ha": 50.0171355
           }
         ],
         "trees": [
@@ -933,8 +933,8 @@
             "ageInYears": 23,
             "numberTreesHa": 28.28,
             "basalAreaM2Ha": 2.2603623,
-            "volumeWithBarkM3Ha": 6.8643633,
-            "volumeWithoutBarkM3Ha": 9.5421571
+            "volumeOverBarkM3Ha": 9.5421571,
+            "volumeUnderBarkM3Ha": 6.8643633
           },
           {
             "infoSpeciesId": "plot-40-443-Species26",
@@ -945,8 +945,8 @@
             "ageInYears": 26,
             "numberTreesHa": 146.54,
             "basalAreaM2Ha": 13.8557238,
-            "volumeWithBarkM3Ha": 67.4686473,
-            "volumeWithoutBarkM3Ha": 93.4143848
+            "volumeOverBarkM3Ha": 93.4143848,
+            "volumeUnderBarkM3Ha": 67.4686473
           }
         ],
         "trees": [
@@ -994,8 +994,8 @@
             "ageInYears": 26,
             "numberTreesHa": 180.35,
             "basalAreaM2Ha": 9.0092442,
-            "volumeWithBarkM3Ha": 26.0055878,
-            "volumeWithoutBarkM3Ha": 43.0078583
+            "volumeOverBarkM3Ha": 43.0078583,
+            "volumeUnderBarkM3Ha": 26.0055878
           },
           {
             "infoSpeciesId": "plot-40-444-Species23",
@@ -1006,8 +1006,8 @@
             "ageInYears": 23,
             "numberTreesHa": 68.75,
             "basalAreaM2Ha": 1.7127106,
-            "volumeWithBarkM3Ha": 3.8056797,
-            "volumeWithoutBarkM3Ha": 5.8896337
+            "volumeOverBarkM3Ha": 5.8896337,
+            "volumeUnderBarkM3Ha": 3.8056797
           }
         ],
         "trees": [
@@ -1054,8 +1054,8 @@
             "ageInYears": 23,
             "numberTreesHa": 10.18,
             "basalAreaM2Ha": 3.9988239,
-            "volumeWithBarkM3Ha": 18.6050249,
-            "volumeWithoutBarkM3Ha": 22.3437595
+            "volumeOverBarkM3Ha": 22.3437595,
+            "volumeUnderBarkM3Ha": 18.6050249
           },
           {
             "infoSpeciesId": "plot-40-446-Species26",
@@ -1066,8 +1066,8 @@
             "ageInYears": 26,
             "numberTreesHa": 53.73,
             "basalAreaM2Ha": 9.6291917,
-            "volumeWithBarkM3Ha": 46.3009585,
-            "volumeWithoutBarkM3Ha": 59.9427103
+            "volumeOverBarkM3Ha": 59.9427103,
+            "volumeUnderBarkM3Ha": 46.3009585
           }
         ],
         "trees": [
@@ -1111,8 +1111,8 @@
             "ageInYears": 23,
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.860255,
-            "volumeWithBarkM3Ha": 1.1834924,
-            "volumeWithoutBarkM3Ha": 2.0302352
+            "volumeOverBarkM3Ha": 2.0302352,
+            "volumeUnderBarkM3Ha": 1.1834924
           },
           {
             "infoSpeciesId": "plot-40-448-Species26",
@@ -1123,8 +1123,8 @@
             "ageInYears": 26,
             "numberTreesHa": 214.43,
             "basalAreaM2Ha": 20.9130276,
-            "volumeWithBarkM3Ha": 84.3258334,
-            "volumeWithoutBarkM3Ha": 122.3007493
+            "volumeOverBarkM3Ha": 122.3007493,
+            "volumeUnderBarkM3Ha": 84.3258334
           }
         ],
         "trees": [
@@ -1179,8 +1179,8 @@
             "ageInYears": 23,
             "numberTreesHa": 33.37,
             "basalAreaM2Ha": 3.9666637,
-            "volumeWithBarkM3Ha": 15.8269617,
-            "volumeWithoutBarkM3Ha": 21.1184301
+            "volumeOverBarkM3Ha": 21.1184301,
+            "volumeUnderBarkM3Ha": 15.8269617
           },
           {
             "infoSpeciesId": "plot-40-462-Species26",
@@ -1191,8 +1191,8 @@
             "ageInYears": 26,
             "numberTreesHa": 170.01,
             "basalAreaM2Ha": 12.3478391,
-            "volumeWithBarkM3Ha": 49.9805603,
-            "volumeWithoutBarkM3Ha": 71.6639627
+            "volumeOverBarkM3Ha": 71.6639627,
+            "volumeUnderBarkM3Ha": 49.9805603
           }
         ],
         "trees": [
@@ -1244,8 +1244,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.8632108,
-            "volumeWithBarkM3Ha": 8.4333365,
-            "volumeWithoutBarkM3Ha": 11.1364434
+            "volumeOverBarkM3Ha": 11.1364434,
+            "volumeUnderBarkM3Ha": 8.4333365
           },
           {
             "infoSpeciesId": "plot-40-463-Species26",
@@ -1256,8 +1256,8 @@
             "ageInYears": 26,
             "numberTreesHa": 89.96,
             "basalAreaM2Ha": 9.4315829,
-            "volumeWithBarkM3Ha": 42.3194693,
-            "volumeWithoutBarkM3Ha": 64.4448723
+            "volumeOverBarkM3Ha": 64.4448723,
+            "volumeUnderBarkM3Ha": 42.3194693
           }
         ],
         "trees": [
@@ -1300,8 +1300,8 @@
             "ageInYears": 23,
             "numberTreesHa": 42.43,
             "basalAreaM2Ha": 4.4775311,
-            "volumeWithBarkM3Ha": 14.5422289,
-            "volumeWithoutBarkM3Ha": 19.8089815
+            "volumeOverBarkM3Ha": 19.8089815,
+            "volumeUnderBarkM3Ha": 14.5422289
           },
           {
             "infoSpeciesId": "plot-40-465-Species26",
@@ -1312,8 +1312,8 @@
             "ageInYears": 26,
             "numberTreesHa": 330.46,
             "basalAreaM2Ha": 30.5640532,
-            "volumeWithBarkM3Ha": 130.8618385,
-            "volumeWithoutBarkM3Ha": 188.5838297
+            "volumeOverBarkM3Ha": 188.5838297,
+            "volumeUnderBarkM3Ha": 130.8618385
           }
         ],
         "trees": [
@@ -1375,8 +1375,8 @@
             "ageInYears": 23,
             "numberTreesHa": 33.38,
             "basalAreaM2Ha": 4.7081536,
-            "volumeWithBarkM3Ha": 21.5900624,
-            "volumeWithoutBarkM3Ha": 28.3203132
+            "volumeOverBarkM3Ha": 28.3203132,
+            "volumeUnderBarkM3Ha": 21.5900624
           },
           {
             "infoSpeciesId": "plot-40-481-Species26",
@@ -1387,8 +1387,8 @@
             "ageInYears": 26,
             "numberTreesHa": 54.87,
             "basalAreaM2Ha": 8.8726287,
-            "volumeWithBarkM3Ha": 41.3588381,
-            "volumeWithoutBarkM3Ha": 57.9918014
+            "volumeOverBarkM3Ha": 57.9918014,
+            "volumeUnderBarkM3Ha": 41.3588381
           }
         ],
         "trees": [
@@ -1435,8 +1435,8 @@
             "ageInYears": 23,
             "numberTreesHa": 24.32,
             "basalAreaM2Ha": 3.6159527,
-            "volumeWithBarkM3Ha": 12.5608742,
-            "volumeWithoutBarkM3Ha": 16.6891494
+            "volumeOverBarkM3Ha": 16.6891494,
+            "volumeUnderBarkM3Ha": 12.5608742
           },
           {
             "infoSpeciesId": "plot-40-515-Species26",
@@ -1447,8 +1447,8 @@
             "ageInYears": 26,
             "numberTreesHa": 78.93,
             "basalAreaM2Ha": 6.7619617,
-            "volumeWithBarkM3Ha": 29.6255506,
-            "volumeWithoutBarkM3Ha": 39.1244689
+            "volumeOverBarkM3Ha": 39.1244689,
+            "volumeUnderBarkM3Ha": 29.6255506
           }
         ],
         "trees": [
@@ -1491,8 +1491,8 @@
             "ageInYears": 23,
             "numberTreesHa": 10.18,
             "basalAreaM2Ha": 2.960924,
-            "volumeWithBarkM3Ha": 13.9109483,
-            "volumeWithoutBarkM3Ha": 17.0033986
+            "volumeOverBarkM3Ha": 17.0033986,
+            "volumeUnderBarkM3Ha": 13.9109483
           },
           {
             "infoSpeciesId": "plot-40-516-Species26",
@@ -1503,8 +1503,8 @@
             "ageInYears": 26,
             "numberTreesHa": 30.54,
             "basalAreaM2Ha": 5.9344541,
-            "volumeWithBarkM3Ha": 28.3670718,
-            "volumeWithoutBarkM3Ha": 39.6515723
+            "volumeOverBarkM3Ha": 39.6515723,
+            "volumeUnderBarkM3Ha": 28.3670718
           }
         ],
         "trees": [
@@ -1547,8 +1547,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.8045304,
-            "volumeWithBarkM3Ha": 7.5689788,
-            "volumeWithoutBarkM3Ha": 10.0609983
+            "volumeOverBarkM3Ha": 10.0609983,
+            "volumeUnderBarkM3Ha": 7.5689788
           },
           {
             "infoSpeciesId": "plot-40-517-Species26",
@@ -1559,8 +1559,8 @@
             "ageInYears": 26,
             "numberTreesHa": 92.21,
             "basalAreaM2Ha": 11.8795401,
-            "volumeWithBarkM3Ha": 66.3466123,
-            "volumeWithoutBarkM3Ha": 88.1949446
+            "volumeOverBarkM3Ha": 88.1949446,
+            "volumeUnderBarkM3Ha": 66.3466123
           }
         ],
         "trees": [
@@ -1607,8 +1607,8 @@
             "ageInYears": 23,
             "numberTreesHa": 45.82,
             "basalAreaM2Ha": 8.6102853,
-            "volumeWithBarkM3Ha": 36.6256239,
-            "volumeWithoutBarkM3Ha": 47.343139
+            "volumeOverBarkM3Ha": 47.343139,
+            "volumeUnderBarkM3Ha": 36.6256239
           },
           {
             "infoSpeciesId": "plot-40-557-Species26",
@@ -1619,8 +1619,8 @@
             "ageInYears": 26,
             "numberTreesHa": 387.05,
             "basalAreaM2Ha": 6.1534451,
-            "volumeWithBarkM3Ha": 14.1879629,
-            "volumeWithoutBarkM3Ha": 22.6943827
+            "volumeOverBarkM3Ha": 22.6943827,
+            "volumeUnderBarkM3Ha": 14.1879629
           }
         ],
         "trees": [
@@ -1671,8 +1671,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 0.9900169,
-            "volumeWithBarkM3Ha": 2.9425901,
-            "volumeWithoutBarkM3Ha": 4.1293112
+            "volumeOverBarkM3Ha": 4.1293112,
+            "volumeUnderBarkM3Ha": 2.9425901
           },
           {
             "infoSpeciesId": "plot-40-561-Species26",
@@ -1683,8 +1683,8 @@
             "ageInYears": 26,
             "numberTreesHa": 57.7,
             "basalAreaM2Ha": 5.8253906,
-            "volumeWithBarkM3Ha": 24.442936,
-            "volumeWithoutBarkM3Ha": 36.0178728
+            "volumeOverBarkM3Ha": 36.0178728,
+            "volumeUnderBarkM3Ha": 24.442936
           }
         ],
         "trees": [
@@ -1726,8 +1726,8 @@
             "ageInYears": 23,
             "numberTreesHa": 65.2,
             "basalAreaM2Ha": 2.7350878,
-            "volumeWithBarkM3Ha": 7.6959869,
-            "volumeWithoutBarkM3Ha": 11.13098
+            "volumeOverBarkM3Ha": 11.13098,
+            "volumeUnderBarkM3Ha": 7.6959869
           },
           {
             "infoSpeciesId": "plot-40-571-Species26",
@@ -1738,8 +1738,8 @@
             "ageInYears": 26,
             "numberTreesHa": 268.78,
             "basalAreaM2Ha": 3.871473,
-            "volumeWithBarkM3Ha": 7.2402757,
-            "volumeWithoutBarkM3Ha": 12.2291464
+            "volumeOverBarkM3Ha": 12.2291464,
+            "volumeUnderBarkM3Ha": 7.2402757
           },
           {
             "infoSpeciesId": "plot-40-571-Species44",
@@ -1791,8 +1791,8 @@
             "ageInYears": 23,
             "numberTreesHa": 36.92,
             "basalAreaM2Ha": 1.9168049,
-            "volumeWithBarkM3Ha": 6.4149752,
-            "volumeWithoutBarkM3Ha": 8.7012502
+            "volumeOverBarkM3Ha": 8.7012502,
+            "volumeUnderBarkM3Ha": 6.4149752
           },
           {
             "infoSpeciesId": "plot-40-575-Species26",
@@ -1803,8 +1803,8 @@
             "ageInYears": 26,
             "numberTreesHa": 89.96,
             "basalAreaM2Ha": 7.2373478,
-            "volumeWithBarkM3Ha": 23.4133274,
-            "volumeWithoutBarkM3Ha": 37.0852528
+            "volumeOverBarkM3Ha": 37.0852528,
+            "volumeUnderBarkM3Ha": 23.4133274
           }
         ],
         "trees": [
@@ -1855,8 +1855,8 @@
             "ageInYears": 23,
             "numberTreesHa": 42.01,
             "basalAreaM2Ha": 4.557979,
-            "volumeWithBarkM3Ha": 20.5193592,
-            "volumeWithoutBarkM3Ha": 25.7052218
+            "volumeOverBarkM3Ha": 25.7052218,
+            "volumeUnderBarkM3Ha": 20.5193592
           },
           {
             "infoSpeciesId": "plot-40-578-Species26",
@@ -1867,8 +1867,8 @@
             "ageInYears": 26,
             "numberTreesHa": 377.13,
             "basalAreaM2Ha": 33.095565,
-            "volumeWithBarkM3Ha": 157.0626323,
-            "volumeWithoutBarkM3Ha": 226.7272761
+            "volumeOverBarkM3Ha": 226.7272761,
+            "volumeUnderBarkM3Ha": 157.0626323
           }
         ],
         "trees": [
@@ -1934,8 +1934,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.3378676,
-            "volumeWithBarkM3Ha": 3.4401019,
-            "volumeWithoutBarkM3Ha": 4.7821839
+            "volumeOverBarkM3Ha": 4.7821839,
+            "volumeUnderBarkM3Ha": 3.4401019
           },
           {
             "infoSpeciesId": "plot-40-584-Species26",
@@ -1946,8 +1946,8 @@
             "ageInYears": 26,
             "numberTreesHa": 33.38,
             "basalAreaM2Ha": 3.5450473,
-            "volumeWithBarkM3Ha": 13.8368041,
-            "volumeWithoutBarkM3Ha": 18.4024642
+            "volumeOverBarkM3Ha": 18.4024642,
+            "volumeUnderBarkM3Ha": 13.8368041
           }
         ],
         "trees": [
@@ -1986,8 +1986,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 1.5750377,
-            "volumeWithBarkM3Ha": 7.6309778,
-            "volumeWithoutBarkM3Ha": 9.365512
+            "volumeOverBarkM3Ha": 9.365512,
+            "volumeUnderBarkM3Ha": 7.6309778
           },
           {
             "infoSpeciesId": "plot-40-588-Species26",
@@ -1998,8 +1998,8 @@
             "ageInYears": 26,
             "numberTreesHa": 63.92,
             "basalAreaM2Ha": 10.149621,
-            "volumeWithBarkM3Ha": 55.2601348,
-            "volumeWithoutBarkM3Ha": 71.2051045
+            "volumeOverBarkM3Ha": 71.2051045,
+            "volumeUnderBarkM3Ha": 55.2601348
           }
         ],
         "trees": [
@@ -2044,8 +2044,8 @@
             "ageInYears": 26,
             "numberTreesHa": 165.79,
             "basalAreaM2Ha": 12.9768586,
-            "volumeWithBarkM3Ha": 56.092899,
-            "volumeWithoutBarkM3Ha": 82.4633075
+            "volumeOverBarkM3Ha": 82.4633075,
+            "volumeUnderBarkM3Ha": 56.092899
           }
         ],
         "trees": [
@@ -2094,8 +2094,8 @@
             "ageInYears": 23,
             "numberTreesHa": 84.86,
             "basalAreaM2Ha": 9.7369825,
-            "volumeWithBarkM3Ha": 29.1115564,
-            "volumeWithoutBarkM3Ha": 39.6400806
+            "volumeOverBarkM3Ha": 39.6400806,
+            "volumeUnderBarkM3Ha": 29.1115564
           },
           {
             "infoSpeciesId": "plot-40-1150-Species26",
@@ -2106,8 +2106,8 @@
             "ageInYears": 26,
             "numberTreesHa": 42.42,
             "basalAreaM2Ha": 3.5946946,
-            "volumeWithBarkM3Ha": 10.1224415,
-            "volumeWithoutBarkM3Ha": 16.1601562
+            "volumeOverBarkM3Ha": 16.1601562,
+            "volumeUnderBarkM3Ha": 10.1224415
           }
         ],
         "trees": [
@@ -2151,8 +2151,8 @@
             "ageInYears": 23,
             "numberTreesHa": 88.41,
             "basalAreaM2Ha": 7.3188109,
-            "volumeWithBarkM3Ha": 27.5283064,
-            "volumeWithoutBarkM3Ha": 37.2547859
+            "volumeOverBarkM3Ha": 37.2547859,
+            "volumeUnderBarkM3Ha": 27.5283064
           },
           {
             "infoSpeciesId": "plot-40-1151-Species26",
@@ -2163,8 +2163,8 @@
             "ageInYears": 26,
             "numberTreesHa": 42.42,
             "basalAreaM2Ha": 3.5064216,
-            "volumeWithBarkM3Ha": 12.3520525,
-            "volumeWithoutBarkM3Ha": 18.4132923
+            "volumeOverBarkM3Ha": 18.4132923,
+            "volumeUnderBarkM3Ha": 12.3520525
           }
         ],
         "trees": [
@@ -2207,8 +2207,8 @@
             "ageInYears": 23,
             "numberTreesHa": 80.9,
             "basalAreaM2Ha": 7.9264286,
-            "volumeWithBarkM3Ha": 19.6372127,
-            "volumeWithoutBarkM3Ha": 27.1865961
+            "volumeOverBarkM3Ha": 27.1865961,
+            "volumeUnderBarkM3Ha": 19.6372127
           },
           {
             "infoSpeciesId": "plot-40-1152-Species26",
@@ -2219,8 +2219,8 @@
             "ageInYears": 26,
             "numberTreesHa": 91.95,
             "basalAreaM2Ha": 3.1702758,
-            "volumeWithBarkM3Ha": 6.6308309,
-            "volumeWithoutBarkM3Ha": 11.5462621
+            "volumeOverBarkM3Ha": 11.5462621,
+            "volumeUnderBarkM3Ha": 6.6308309
           }
         ],
         "trees": [
@@ -2266,8 +2266,8 @@
             "ageInYears": 23,
             "numberTreesHa": 66.75,
             "basalAreaM2Ha": 7.4697508,
-            "volumeWithBarkM3Ha": 21.0632892,
-            "volumeWithoutBarkM3Ha": 28.8094552
+            "volumeOverBarkM3Ha": 28.8094552,
+            "volumeUnderBarkM3Ha": 21.0632892
           },
           {
             "infoSpeciesId": "plot-40-1155-Species26",
@@ -2278,8 +2278,8 @@
             "ageInYears": 26,
             "numberTreesHa": 34.5,
             "basalAreaM2Ha": 6.7535888,
-            "volumeWithBarkM3Ha": 28.6887721,
-            "volumeWithoutBarkM3Ha": 38.2041985
+            "volumeOverBarkM3Ha": 38.2041985,
+            "volumeUnderBarkM3Ha": 28.6887721
           }
         ],
         "trees": [
@@ -2325,8 +2325,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.2247015,
-            "volumeWithBarkM3Ha": 3.1683635,
-            "volumeWithoutBarkM3Ha": 4.4260587
+            "volumeOverBarkM3Ha": 4.4260587,
+            "volumeUnderBarkM3Ha": 3.1683635
           },
           {
             "infoSpeciesId": "plot-40-1166-Species26",
@@ -2337,8 +2337,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.0746683,
-            "volumeWithBarkM3Ha": 3.0224188,
-            "volumeWithoutBarkM3Ha": 4.8966699
+            "volumeOverBarkM3Ha": 4.8966699,
+            "volumeUnderBarkM3Ha": 3.0224188
           },
           {
             "infoSpeciesId": "plot-40-1166-Species58",
@@ -2391,8 +2391,8 @@
             "ageInYears": 23,
             "numberTreesHa": 42.01,
             "basalAreaM2Ha": 3.6988026,
-            "volumeWithBarkM3Ha": 11.4074835,
-            "volumeWithoutBarkM3Ha": 14.8394687
+            "volumeOverBarkM3Ha": 14.8394687,
+            "volumeUnderBarkM3Ha": 11.4074835
           },
           {
             "infoSpeciesId": "plot-40-1171-Species26",
@@ -2403,8 +2403,8 @@
             "ageInYears": 26,
             "numberTreesHa": 84.87,
             "basalAreaM2Ha": 5.625413,
-            "volumeWithBarkM3Ha": 12.8772289,
-            "volumeWithoutBarkM3Ha": 21.3929532
+            "volumeOverBarkM3Ha": 21.3929532,
+            "volumeUnderBarkM3Ha": 12.8772289
           }
         ],
         "trees": [
@@ -2448,8 +2448,8 @@
             "ageInYears": 23,
             "numberTreesHa": 60.11,
             "basalAreaM2Ha": 2.2478563,
-            "volumeWithBarkM3Ha": 5.0406381,
-            "volumeWithoutBarkM3Ha": 7.6040722
+            "volumeOverBarkM3Ha": 7.6040722,
+            "volumeUnderBarkM3Ha": 5.0406381
           },
           {
             "infoSpeciesId": "plot-40-1187-Species26",
@@ -2460,8 +2460,8 @@
             "ageInYears": 26,
             "numberTreesHa": 240.48,
             "basalAreaM2Ha": 9.0937747,
-            "volumeWithBarkM3Ha": 16.9082226,
-            "volumeWithoutBarkM3Ha": 29.8939326
+            "volumeOverBarkM3Ha": 29.8939326,
+            "volumeUnderBarkM3Ha": 16.9082226
           },
           {
             "infoSpeciesId": "plot-40-1187-Species45",
@@ -2479,8 +2479,8 @@
             "scientificName": "Pinus pinaster",
             "numberTreesHa": 240.48,
             "basalAreaM2Ha": 9.0937747,
-            "volumeWithBarkM3Ha": 16.9082226,
-            "volumeWithoutBarkM3Ha": 29.8939326
+            "volumeOverBarkM3Ha": 29.8939326,
+            "volumeUnderBarkM3Ha": 16.9082226
           }
         ],
         "trees": [
@@ -2538,8 +2538,8 @@
             "ageInYears": 23,
             "numberTreesHa": 62.79,
             "basalAreaM2Ha": 7.8778566,
-            "volumeWithBarkM3Ha": 29.7305581,
-            "volumeWithoutBarkM3Ha": 39.6333411
+            "volumeOverBarkM3Ha": 39.6333411,
+            "volumeUnderBarkM3Ha": 29.7305581
           },
           {
             "infoSpeciesId": "plot-40-1193-Species26",
@@ -2550,8 +2550,8 @@
             "ageInYears": 26,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 1.7805464,
-            "volumeWithBarkM3Ha": 6.9023023,
-            "volumeWithoutBarkM3Ha": 10.6513368
+            "volumeOverBarkM3Ha": 10.6513368,
+            "volumeUnderBarkM3Ha": 6.9023023
           }
         ],
         "trees": [
@@ -2595,8 +2595,8 @@
             "ageInYears": 26,
             "numberTreesHa": 33.37,
             "basalAreaM2Ha": 2.8853151,
-            "volumeWithBarkM3Ha": 12.6181058,
-            "volumeWithoutBarkM3Ha": 17.9088667
+            "volumeOverBarkM3Ha": 17.9088667,
+            "volumeUnderBarkM3Ha": 12.6181058
           },
           {
             "infoSpeciesId": "plot-40-1212-Species23",
@@ -2607,8 +2607,8 @@
             "ageInYears": 23,
             "numberTreesHa": 95.05,
             "basalAreaM2Ha": 11.4311147,
-            "volumeWithBarkM3Ha": 36.0439981,
-            "volumeWithoutBarkM3Ha": 48.7260473
+            "volumeOverBarkM3Ha": 48.7260473,
+            "volumeUnderBarkM3Ha": 36.0439981
           }
         ],
         "trees": [
@@ -2654,8 +2654,8 @@
             "ageInYears": 23,
             "numberTreesHa": 49.78,
             "basalAreaM2Ha": 8.2348894,
-            "volumeWithBarkM3Ha": 29.50362,
-            "volumeWithoutBarkM3Ha": 38.913188
+            "volumeOverBarkM3Ha": 38.913188,
+            "volumeUnderBarkM3Ha": 29.50362
           },
           {
             "infoSpeciesId": "plot-40-1217-Species26",
@@ -2666,8 +2666,8 @@
             "ageInYears": 26,
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.9457563,
-            "volumeWithBarkM3Ha": 1.8589113,
-            "volumeWithoutBarkM3Ha": 3.4412844
+            "volumeOverBarkM3Ha": 3.4412844,
+            "volumeUnderBarkM3Ha": 1.8589113
           }
         ],
         "trees": [
@@ -2711,8 +2711,8 @@
             "ageInYears": 23,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 1.5935041,
-            "volumeWithBarkM3Ha": 3.2935799,
-            "volumeWithoutBarkM3Ha": 4.6381684
+            "volumeOverBarkM3Ha": 4.6381684,
+            "volumeUnderBarkM3Ha": 3.2935799
           },
           {
             "infoSpeciesId": "plot-40-1223-Species26",
@@ -2723,8 +2723,8 @@
             "ageInYears": 26,
             "numberTreesHa": 57.71,
             "basalAreaM2Ha": 5.2418809,
-            "volumeWithBarkM3Ha": 19.2458782,
-            "volumeWithoutBarkM3Ha": 28.25965
+            "volumeOverBarkM3Ha": 28.25965,
+            "volumeUnderBarkM3Ha": 19.2458782
           }
         ],
         "trees": [
@@ -2767,8 +2767,8 @@
             "ageInYears": 23,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 3.2233415,
-            "volumeWithBarkM3Ha": 16.567544,
-            "volumeWithoutBarkM3Ha": 21.2051307
+            "volumeOverBarkM3Ha": 21.2051307,
+            "volumeUnderBarkM3Ha": 16.567544
           },
           {
             "infoSpeciesId": "plot-40-1275-Species26",
@@ -2779,8 +2779,8 @@
             "ageInYears": 26,
             "numberTreesHa": 878.64,
             "basalAreaM2Ha": 46.7167176,
-            "volumeWithBarkM3Ha": 179.7465393,
-            "volumeWithoutBarkM3Ha": 289.6165484
+            "volumeOverBarkM3Ha": 289.6165484,
+            "volumeUnderBarkM3Ha": 179.7465393
           }
         ],
         "trees": [
@@ -2866,8 +2866,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.9044083,
-            "volumeWithBarkM3Ha": 5.1049563,
-            "volumeWithoutBarkM3Ha": 6.49933
+            "volumeOverBarkM3Ha": 6.49933,
+            "volumeUnderBarkM3Ha": 5.1049563
           },
           {
             "infoSpeciesId": "plot-40-1277-Species26",
@@ -2878,8 +2878,8 @@
             "ageInYears": 26,
             "numberTreesHa": 492.83,
             "basalAreaM2Ha": 47.0677264,
-            "volumeWithBarkM3Ha": 252.4544475,
-            "volumeWithoutBarkM3Ha": 353.5495285
+            "volumeOverBarkM3Ha": 353.5495285,
+            "volumeUnderBarkM3Ha": 252.4544475
           }
         ],
         "trees": [
@@ -2954,8 +2954,8 @@
             "ageInYears": 23,
             "numberTreesHa": 128.43,
             "basalAreaM2Ha": 10.2915335,
-            "volumeWithBarkM3Ha": 36.9263754,
-            "volumeWithoutBarkM3Ha": 50.1207781
+            "volumeOverBarkM3Ha": 50.1207781,
+            "volumeUnderBarkM3Ha": 36.9263754
           },
           {
             "infoSpeciesId": "plot-40-1292-Species26",
@@ -2966,8 +2966,8 @@
             "ageInYears": 26,
             "numberTreesHa": 477.45,
             "basalAreaM2Ha": 18.8490669,
-            "volumeWithBarkM3Ha": 50.5433327,
-            "volumeWithoutBarkM3Ha": 86.390808
+            "volumeOverBarkM3Ha": 86.390808,
+            "volumeUnderBarkM3Ha": 50.5433327
           },
           {
             "infoSpeciesId": "plot-40-1292-Species45",
@@ -3045,8 +3045,8 @@
             "scientificName": "Pinus pinea",
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 0.8160046,
-            "volumeWithBarkM3Ha": 2.6007278,
-            "volumeWithoutBarkM3Ha": 3.6784774
+            "volumeOverBarkM3Ha": 3.6784774,
+            "volumeUnderBarkM3Ha": 2.6007278
           },
           {
             "infoSpeciesId": "plot-40-1431-Species26",
@@ -3057,8 +3057,8 @@
             "ageInYears": 26,
             "numberTreesHa": 493.14,
             "basalAreaM2Ha": 29.7521638,
-            "volumeWithBarkM3Ha": 91.7084953,
-            "volumeWithoutBarkM3Ha": 149.0458745
+            "volumeOverBarkM3Ha": 149.0458745,
+            "volumeUnderBarkM3Ha": 91.7084953
           },
           {
             "infoSpeciesId": "plot-40-1431-Species45",
@@ -3134,8 +3134,8 @@
             "ageInYears": 23,
             "numberTreesHa": 57.7,
             "basalAreaM2Ha": 7.2299988,
-            "volumeWithBarkM3Ha": 26.9346423,
-            "volumeWithoutBarkM3Ha": 36.027907
+            "volumeOverBarkM3Ha": 36.027907,
+            "volumeUnderBarkM3Ha": 26.9346423
           },
           {
             "infoSpeciesId": "plot-40-1441-Species26",
@@ -3146,8 +3146,8 @@
             "ageInYears": 26,
             "numberTreesHa": 56.57,
             "basalAreaM2Ha": 5.1659297,
-            "volumeWithBarkM3Ha": 19.1320956,
-            "volumeWithoutBarkM3Ha": 28.48164
+            "volumeOverBarkM3Ha": 28.48164,
+            "volumeUnderBarkM3Ha": 19.1320956
           },
           {
             "infoSpeciesId": "plot-40-1441-Species45",
@@ -3199,8 +3199,8 @@
             "ageInYears": 23,
             "numberTreesHa": 164.23,
             "basalAreaM2Ha": 9.878059,
-            "volumeWithBarkM3Ha": 25.1199357,
-            "volumeWithoutBarkM3Ha": 35.8120755
+            "volumeOverBarkM3Ha": 35.8120755,
+            "volumeUnderBarkM3Ha": 25.1199357
           },
           {
             "infoSpeciesId": "plot-40-1446-Species26",
@@ -3211,8 +3211,8 @@
             "ageInYears": 26,
             "numberTreesHa": 28.28,
             "basalAreaM2Ha": 1.4423347,
-            "volumeWithBarkM3Ha": 3.0655997,
-            "volumeWithoutBarkM3Ha": 5.1574769
+            "volumeOverBarkM3Ha": 5.1574769,
+            "volumeUnderBarkM3Ha": 3.0655997
           },
           {
             "infoSpeciesId": "plot-40-1446-Species45",
@@ -3230,8 +3230,8 @@
             "scientificName": "Pinus pinea",
             "numberTreesHa": 164.23,
             "basalAreaM2Ha": 9.878059,
-            "volumeWithBarkM3Ha": 25.1199357,
-            "volumeWithoutBarkM3Ha": 35.8120755
+            "volumeOverBarkM3Ha": 35.8120755,
+            "volumeUnderBarkM3Ha": 25.1199357
           }
         ],
         "trees": [
@@ -3287,8 +3287,8 @@
             "ageInYears": 23,
             "numberTreesHa": 34.5,
             "basalAreaM2Ha": 6.5529252,
-            "volumeWithBarkM3Ha": 28.0757689,
-            "volumeWithoutBarkM3Ha": 35.216259
+            "volumeOverBarkM3Ha": 35.216259,
+            "volumeUnderBarkM3Ha": 28.0757689
           },
           {
             "infoSpeciesId": "plot-40-1450-Species26",
@@ -3298,8 +3298,8 @@
             "scientificName": "Pinus pinaster",
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.7182537,
-            "volumeWithBarkM3Ha": 1.3985618,
-            "volumeWithoutBarkM3Ha": 2.717909
+            "volumeOverBarkM3Ha": 2.717909,
+            "volumeUnderBarkM3Ha": 1.3985618
           }
         ],
         "trees": [
@@ -3340,8 +3340,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 1.14705,
-            "volumeWithBarkM3Ha": 3.5105392,
-            "volumeWithoutBarkM3Ha": 4.592905
+            "volumeOverBarkM3Ha": 4.592905,
+            "volumeUnderBarkM3Ha": 3.5105392
           },
           {
             "infoSpeciesId": "plot-40-1453-Species26",
@@ -3352,8 +3352,8 @@
             "ageInYears": 26,
             "numberTreesHa": 70.72,
             "basalAreaM2Ha": 7.3519143,
-            "volumeWithBarkM3Ha": 28.9869171,
-            "volumeWithoutBarkM3Ha": 40.4375625
+            "volumeOverBarkM3Ha": 40.4375625,
+            "volumeUnderBarkM3Ha": 28.9869171
           },
           {
             "infoSpeciesId": "plot-40-1453-Species45",
@@ -3400,8 +3400,8 @@
             "scientificName": "Pinus pinea",
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.5833902,
-            "volumeWithBarkM3Ha": 4.0230828,
-            "volumeWithoutBarkM3Ha": 5.5424338
+            "volumeOverBarkM3Ha": 5.5424338,
+            "volumeUnderBarkM3Ha": 4.0230828
           },
           {
             "infoSpeciesId": "plot-40-1514-Species26",
@@ -3412,8 +3412,8 @@
             "ageInYears": 26,
             "numberTreesHa": 116.69,
             "basalAreaM2Ha": 8.2389377,
-            "volumeWithBarkM3Ha": 22.3984444,
-            "volumeWithoutBarkM3Ha": 36.2928542
+            "volumeOverBarkM3Ha": 36.2928542,
+            "volumeUnderBarkM3Ha": 22.3984444
           },
           {
             "infoSpeciesId": "plot-40-1514-Species45",
@@ -3424,8 +3424,8 @@
             "ageInYears": 45,
             "numberTreesHa": 1177.74,
             "basalAreaM2Ha": 7.7163723,
-            "volumeWithBarkM3Ha": 29.7121726,
-            "volumeWithoutBarkM3Ha": 41.3180799
+            "volumeOverBarkM3Ha": 41.3180799,
+            "volumeUnderBarkM3Ha": 29.7121726
           }
         ],
         "trees": [
@@ -3478,8 +3478,8 @@
             "ageInYears": 23,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 1.8183998,
-            "volumeWithBarkM3Ha": 4.374535,
-            "volumeWithoutBarkM3Ha": 5.9911324
+            "volumeOverBarkM3Ha": 5.9911324,
+            "volumeUnderBarkM3Ha": 4.374535
           },
           {
             "infoSpeciesId": "plot-40-1526-Species26",
@@ -3490,8 +3490,8 @@
             "ageInYears": 26,
             "numberTreesHa": 42.42,
             "basalAreaM2Ha": 3.1532982,
-            "volumeWithBarkM3Ha": 8.2713999,
-            "volumeWithoutBarkM3Ha": 13.4340674
+            "volumeOverBarkM3Ha": 13.4340674,
+            "volumeUnderBarkM3Ha": 8.2713999
           },
           {
             "infoSpeciesId": "plot-40-1526-Species45",
@@ -3539,8 +3539,8 @@
             "ageInYears": 23,
             "numberTreesHa": 231.43,
             "basalAreaM2Ha": 11.7242976,
-            "volumeWithBarkM3Ha": 30.3229025,
-            "volumeWithoutBarkM3Ha": 43.6440137
+            "volumeOverBarkM3Ha": 43.6440137,
+            "volumeUnderBarkM3Ha": 30.3229025
           },
           {
             "infoSpeciesId": "plot-40-1528-Species26",
@@ -3551,8 +3551,8 @@
             "ageInYears": 26,
             "numberTreesHa": 45.97,
             "basalAreaM2Ha": 1.3601051,
-            "volumeWithBarkM3Ha": 2.9405515,
-            "volumeWithoutBarkM3Ha": 5.2086737
+            "volumeOverBarkM3Ha": 5.2086737,
+            "volumeUnderBarkM3Ha": 2.9405515
           },
           {
             "infoSpeciesId": "plot-40-1528-Species45",
@@ -3608,8 +3608,8 @@
             "scientificName": "Pinus pinea",
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.0815904,
-            "volumeWithBarkM3Ha": 1.8913407,
-            "volumeWithoutBarkM3Ha": 2.7371021
+            "volumeOverBarkM3Ha": 2.7371021,
+            "volumeUnderBarkM3Ha": 1.8913407
           },
           {
             "infoSpeciesId": "plot-40-1537-Species26",
@@ -3620,8 +3620,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.3263251,
-            "volumeWithBarkM3Ha": 3.6573927,
-            "volumeWithoutBarkM3Ha": 5.8432881
+            "volumeOverBarkM3Ha": 5.8432881,
+            "volumeUnderBarkM3Ha": 3.6573927
           },
           {
             "infoSpeciesId": "plot-40-1537-Species45",
@@ -3632,8 +3632,8 @@
             "ageInYears": 45,
             "numberTreesHa": 413.8,
             "basalAreaM2Ha": 2.3458077,
-            "volumeWithBarkM3Ha": 8.5948792,
-            "volumeWithoutBarkM3Ha": 12.2981646
+            "volumeOverBarkM3Ha": 12.2981646,
+            "volumeUnderBarkM3Ha": 8.5948792
           }
         ],
         "trees": [
@@ -3674,8 +3674,8 @@
             "ageInYears": 23,
             "numberTreesHa": 47.52,
             "basalAreaM2Ha": 5.5374737,
-            "volumeWithBarkM3Ha": 13.7388937,
-            "volumeWithoutBarkM3Ha": 18.9014845
+            "volumeOverBarkM3Ha": 18.9014845,
+            "volumeUnderBarkM3Ha": 13.7388937
           },
           {
             "infoSpeciesId": "plot-40-1543-Species26",
@@ -3686,8 +3686,8 @@
             "ageInYears": 26,
             "numberTreesHa": 205.12,
             "basalAreaM2Ha": 8.5776101,
-            "volumeWithBarkM3Ha": 19.9994457,
-            "volumeWithoutBarkM3Ha": 33.70492
+            "volumeOverBarkM3Ha": 33.70492,
+            "volumeUnderBarkM3Ha": 19.9994457
           },
           {
             "infoSpeciesId": "plot-40-1543-Species45",
@@ -3753,8 +3753,8 @@
             "ageInYears": 26,
             "numberTreesHa": 99.02,
             "basalAreaM2Ha": 4.9202544,
-            "volumeWithBarkM3Ha": 12.2544991,
-            "volumeWithoutBarkM3Ha": 20.521218
+            "volumeOverBarkM3Ha": 20.521218,
+            "volumeUnderBarkM3Ha": 12.2544991
           },
           {
             "infoSpeciesId": "plot-47-243-Species23",
@@ -3765,8 +3765,8 @@
             "ageInYears": 23,
             "numberTreesHa": 119.37,
             "basalAreaM2Ha": 10.8452913,
-            "volumeWithBarkM3Ha": 33.1642163,
-            "volumeWithoutBarkM3Ha": 45.6487173
+            "volumeOverBarkM3Ha": 45.6487173,
+            "volumeUnderBarkM3Ha": 33.1642163
           }
         ],
         "trees": [
@@ -3826,8 +3826,8 @@
             "ageInYears": 23,
             "numberTreesHa": 187.43,
             "basalAreaM2Ha": 5.4014751,
-            "volumeWithBarkM3Ha": 10.7413268,
-            "volumeWithoutBarkM3Ha": 16.1904737
+            "volumeOverBarkM3Ha": 16.1904737,
+            "volumeUnderBarkM3Ha": 10.7413268
           },
           {
             "infoSpeciesId": "plot-47-251-Species26",
@@ -3838,8 +3838,8 @@
             "ageInYears": 26,
             "numberTreesHa": 70.73,
             "basalAreaM2Ha": 4.5650302,
-            "volumeWithBarkM3Ha": 10.8653061,
-            "volumeWithoutBarkM3Ha": 18.0977194
+            "volumeOverBarkM3Ha": 18.0977194,
+            "volumeUnderBarkM3Ha": 10.8653061
           }
         ],
         "trees": [
@@ -3893,8 +3893,8 @@
             "ageInYears": 23,
             "numberTreesHa": 124.46,
             "basalAreaM2Ha": 16.0955227,
-            "volumeWithBarkM3Ha": 59.3331,
-            "volumeWithoutBarkM3Ha": 79.5601564
+            "volumeOverBarkM3Ha": 79.5601564,
+            "volumeUnderBarkM3Ha": 59.3331
           },
           {
             "infoSpeciesId": "plot-47-286-Species26",
@@ -3905,8 +3905,8 @@
             "ageInYears": 26,
             "numberTreesHa": 61.67,
             "basalAreaM2Ha": 5.5245109,
-            "volumeWithBarkM3Ha": 20.8744609,
-            "volumeWithoutBarkM3Ha": 30.7351672
+            "volumeOverBarkM3Ha": 30.7351672,
+            "volumeUnderBarkM3Ha": 20.8744609
           }
         ],
         "trees": [
@@ -3958,8 +3958,8 @@
             "ageInYears": 23,
             "numberTreesHa": 72.98,
             "basalAreaM2Ha": 7.7922083,
-            "volumeWithBarkM3Ha": 26.4853133,
-            "volumeWithoutBarkM3Ha": 35.7874035
+            "volumeOverBarkM3Ha": 35.7874035,
+            "volumeUnderBarkM3Ha": 26.4853133
           },
           {
             "infoSpeciesId": "plot-47-311-Species26",
@@ -3970,8 +3970,8 @@
             "ageInYears": 26,
             "numberTreesHa": 70.72,
             "basalAreaM2Ha": 4.8287684,
-            "volumeWithBarkM3Ha": 14.3414801,
-            "volumeWithoutBarkM3Ha": 23.4614922
+            "volumeOverBarkM3Ha": 23.4614922,
+            "volumeUnderBarkM3Ha": 14.3414801
           }
         ],
         "trees": [
@@ -4020,8 +4020,8 @@
             "ageInYears": 26,
             "numberTreesHa": 28.28,
             "basalAreaM2Ha": 1.9785442,
-            "volumeWithBarkM3Ha": 6.1808312,
-            "volumeWithoutBarkM3Ha": 10.1021872
+            "volumeOverBarkM3Ha": 10.1021872,
+            "volumeUnderBarkM3Ha": 6.1808312
           },
           {
             "infoSpeciesId": "plot-47-312-Species45",
@@ -4040,8 +4040,8 @@
             "ageInYears": 23,
             "numberTreesHa": 222.37,
             "basalAreaM2Ha": 18.1500886,
-            "volumeWithBarkM3Ha": 65.3013664,
-            "volumeWithoutBarkM3Ha": 89.9703404
+            "volumeOverBarkM3Ha": 89.9703404,
+            "volumeUnderBarkM3Ha": 65.3013664
           }
         ],
         "trees": [
@@ -4095,8 +4095,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.9460103,
-            "volumeWithBarkM3Ha": 7.1203251,
-            "volumeWithoutBarkM3Ha": 9.5525735
+            "volumeOverBarkM3Ha": 9.5525735,
+            "volumeUnderBarkM3Ha": 7.1203251
           },
           {
             "infoSpeciesId": "plot-47-329-Species26",
@@ -4107,8 +4107,8 @@
             "ageInYears": 26,
             "numberTreesHa": 285.61,
             "basalAreaM2Ha": 21.1022584,
-            "volumeWithBarkM3Ha": 75.8253986,
-            "volumeWithoutBarkM3Ha": 119.2862543
+            "volumeOverBarkM3Ha": 119.2862543,
+            "volumeUnderBarkM3Ha": 75.8253986
           }
         ],
         "trees": [
@@ -4170,8 +4170,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 1.010033,
-            "volumeWithBarkM3Ha": 4.8170505,
-            "volumeWithoutBarkM3Ha": 6.2264751
+            "volumeOverBarkM3Ha": 6.2264751,
+            "volumeUnderBarkM3Ha": 4.8170505
           },
           {
             "infoSpeciesId": "plot-47-330-Species26",
@@ -4182,8 +4182,8 @@
             "ageInYears": 26,
             "numberTreesHa": 25.45,
             "basalAreaM2Ha": 5.7302793,
-            "volumeWithBarkM3Ha": 38.6580793,
-            "volumeWithoutBarkM3Ha": 48.8237326
+            "volumeOverBarkM3Ha": 48.8237326,
+            "volumeUnderBarkM3Ha": 38.6580793
           }
         ],
         "trees": [
@@ -4224,8 +4224,8 @@
             "ageInYears": 23,
             "numberTreesHa": 52.6,
             "basalAreaM2Ha": 5.3223541,
-            "volumeWithBarkM3Ha": 17.6718522,
-            "volumeWithoutBarkM3Ha": 23.9349117
+            "volumeOverBarkM3Ha": 23.9349117,
+            "volumeUnderBarkM3Ha": 17.6718522
           },
           {
             "infoSpeciesId": "plot-47-342-Species26",
@@ -4236,8 +4236,8 @@
             "ageInYears": 26,
             "numberTreesHa": 33.37,
             "basalAreaM2Ha": 3.9678987,
-            "volumeWithBarkM3Ha": 14.6681435,
-            "volumeWithoutBarkM3Ha": 22.6408685
+            "volumeOverBarkM3Ha": 22.6408685,
+            "volumeUnderBarkM3Ha": 14.6681435
           }
         ],
         "trees": [
@@ -4280,8 +4280,8 @@
             "ageInYears": 23,
             "numberTreesHa": 130.85,
             "basalAreaM2Ha": 9.8073622,
-            "volumeWithBarkM3Ha": 33.2431664,
-            "volumeWithoutBarkM3Ha": 46.1151263
+            "volumeOverBarkM3Ha": 46.1151263,
+            "volumeUnderBarkM3Ha": 33.2431664
           },
           {
             "infoSpeciesId": "plot-47-345-Species26",
@@ -4292,8 +4292,8 @@
             "ageInYears": 26,
             "numberTreesHa": 187.43,
             "basalAreaM2Ha": 12.1407382,
-            "volumeWithBarkM3Ha": 56.1807999,
-            "volumeWithoutBarkM3Ha": 82.7299225
+            "volumeOverBarkM3Ha": 82.7299225,
+            "volumeUnderBarkM3Ha": 56.1807999
           }
         ],
         "trees": [
@@ -4348,8 +4348,8 @@
             "ageInYears": 23,
             "numberTreesHa": 159.14,
             "basalAreaM2Ha": 14.7016685,
-            "volumeWithBarkM3Ha": 52.7890032,
-            "volumeWithoutBarkM3Ha": 72.0906185
+            "volumeOverBarkM3Ha": 72.0906185,
+            "volumeUnderBarkM3Ha": 52.7890032
           },
           {
             "infoSpeciesId": "plot-47-347-Species26",
@@ -4360,8 +4360,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.5006133,
-            "volumeWithBarkM3Ha": 5.5123926,
-            "volumeWithoutBarkM3Ha": 8.6171032
+            "volumeOverBarkM3Ha": 8.6171032,
+            "volumeUnderBarkM3Ha": 5.5123926
           }
         ],
         "trees": [
@@ -4407,8 +4407,8 @@
             "ageInYears": 23,
             "numberTreesHa": 234.96,
             "basalAreaM2Ha": 6.5816982,
-            "volumeWithBarkM3Ha": 15.7377161,
-            "volumeWithoutBarkM3Ha": 22.9051632
+            "volumeOverBarkM3Ha": 22.9051632,
+            "volumeUnderBarkM3Ha": 15.7377161
           },
           {
             "infoSpeciesId": "plot-47-351-Species26",
@@ -4419,8 +4419,8 @@
             "ageInYears": 26,
             "numberTreesHa": 88.41,
             "basalAreaM2Ha": 3.4782259,
-            "volumeWithBarkM3Ha": 9.1209409,
-            "volumeWithoutBarkM3Ha": 15.4803761
+            "volumeOverBarkM3Ha": 15.4803761,
+            "volumeUnderBarkM3Ha": 9.1209409
           },
           {
             "infoSpeciesId": "plot-47-351-Species45",
@@ -4475,8 +4475,8 @@
             "ageInYears": 23,
             "numberTreesHa": 29.41,
             "basalAreaM2Ha": 4.2949701,
-            "volumeWithBarkM3Ha": 12.2139124,
-            "volumeWithoutBarkM3Ha": 16.2787424
+            "volumeOverBarkM3Ha": 16.2787424,
+            "volumeUnderBarkM3Ha": 12.2139124
           },
           {
             "infoSpeciesId": "plot-47-352-Species26",
@@ -4487,8 +4487,8 @@
             "ageInYears": 26,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.9044083,
-            "volumeWithBarkM3Ha": 3.7779038,
-            "volumeWithoutBarkM3Ha": 5.4922361
+            "volumeOverBarkM3Ha": 5.4922361,
+            "volumeUnderBarkM3Ha": 3.7779038
           },
           {
             "infoSpeciesId": "plot-47-352-Species45",
@@ -4535,8 +4535,8 @@
             "ageInYears": 23,
             "numberTreesHa": 20.36,
             "basalAreaM2Ha": 3.35966,
-            "volumeWithBarkM3Ha": 5.7090094,
-            "volumeWithoutBarkM3Ha": 7.8262113
+            "volumeOverBarkM3Ha": 7.8262113,
+            "volumeUnderBarkM3Ha": 5.7090094
           },
           {
             "infoSpeciesId": "plot-47-356-Species26",
@@ -4547,8 +4547,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.8723214,
-            "volumeWithBarkM3Ha": 3.5652109,
-            "volumeWithoutBarkM3Ha": 4.8108175
+            "volumeOverBarkM3Ha": 4.8108175,
+            "volumeUnderBarkM3Ha": 3.5652109
           }
         ],
         "trees": [
@@ -4588,8 +4588,8 @@
             "ageInYears": 26,
             "numberTreesHa": 121.79,
             "basalAreaM2Ha": 10.0492001,
-            "volumeWithBarkM3Ha": 36.0656228,
-            "volumeWithoutBarkM3Ha": 55.2546197
+            "volumeOverBarkM3Ha": 55.2546197,
+            "volumeUnderBarkM3Ha": 36.0656228
           },
           {
             "infoSpeciesId": "plot-47-364-Species23",
@@ -4600,8 +4600,8 @@
             "ageInYears": 23,
             "numberTreesHa": 10.18,
             "basalAreaM2Ha": 1.9342403,
-            "volumeWithBarkM3Ha": 7.2536842,
-            "volumeWithoutBarkM3Ha": 9.543164
+            "volumeOverBarkM3Ha": 9.543164,
+            "volumeUnderBarkM3Ha": 7.2536842
           }
         ],
         "trees": [
@@ -4646,8 +4646,8 @@
             "ageInYears": 23,
             "numberTreesHa": 127.32,
             "basalAreaM2Ha": 1.2882133,
-            "volumeWithBarkM3Ha": 2.0782969,
-            "volumeWithoutBarkM3Ha": 3.0933365
+            "volumeOverBarkM3Ha": 3.0933365,
+            "volumeUnderBarkM3Ha": 2.0782969
           },
           {
             "infoSpeciesId": "plot-47-365-Species26",
@@ -4658,8 +4658,8 @@
             "ageInYears": 26,
             "numberTreesHa": 177.1,
             "basalAreaM2Ha": 18.3101548,
-            "volumeWithBarkM3Ha": 74.0252139,
-            "volumeWithoutBarkM3Ha": 110.4720299
+            "volumeOverBarkM3Ha": 110.4720299,
+            "volumeUnderBarkM3Ha": 74.0252139
           }
         ],
         "trees": [
@@ -4712,8 +4712,8 @@
             "ageInYears": 23,
             "numberTreesHa": 173.29,
             "basalAreaM2Ha": 3.6879883,
-            "volumeWithBarkM3Ha": 9.4472796,
-            "volumeWithoutBarkM3Ha": 13.3978847
+            "volumeOverBarkM3Ha": 13.3978847,
+            "volumeUnderBarkM3Ha": 9.4472796
           },
           {
             "infoSpeciesId": "plot-47-368-Species26",
@@ -4724,8 +4724,8 @@
             "ageInYears": 26,
             "numberTreesHa": 84.87,
             "basalAreaM2Ha": 6.4355536,
-            "volumeWithBarkM3Ha": 27.177912,
-            "volumeWithoutBarkM3Ha": 39.344056
+            "volumeOverBarkM3Ha": 39.344056,
+            "volumeUnderBarkM3Ha": 27.177912
           }
         ],
         "trees": [
@@ -4776,8 +4776,8 @@
             "ageInYears": 23,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 2.629357,
-            "volumeWithBarkM3Ha": 4.025618,
-            "volumeWithoutBarkM3Ha": 5.32654
+            "volumeOverBarkM3Ha": 5.32654,
+            "volumeUnderBarkM3Ha": 4.025618
           },
           {
             "infoSpeciesId": "plot-47-372-Species26",
@@ -4788,8 +4788,8 @@
             "ageInYears": 26,
             "numberTreesHa": 28.28,
             "basalAreaM2Ha": 3.5516608,
-            "volumeWithBarkM3Ha": 8.1369836,
-            "volumeWithoutBarkM3Ha": 12.0348486
+            "volumeOverBarkM3Ha": 12.0348486,
+            "volumeUnderBarkM3Ha": 8.1369836
           }
         ],
         "trees": [
@@ -4828,8 +4828,8 @@
             "ageInYears": 23,
             "numberTreesHa": 36.92,
             "basalAreaM2Ha": 1.3146688,
-            "volumeWithBarkM3Ha": 3.8714882,
-            "volumeWithoutBarkM3Ha": 5.2381039
+            "volumeOverBarkM3Ha": 5.2381039,
+            "volumeUnderBarkM3Ha": 3.8714882
           },
           {
             "infoSpeciesId": "plot-47-373-Species26",
@@ -4840,8 +4840,8 @@
             "ageInYears": 26,
             "numberTreesHa": 240.06,
             "basalAreaM2Ha": 11.7160835,
-            "volumeWithBarkM3Ha": 35.6731476,
-            "volumeWithoutBarkM3Ha": 54.0504546
+            "volumeOverBarkM3Ha": 54.0504546,
+            "volumeUnderBarkM3Ha": 35.6731476
           }
         ],
         "trees": [
@@ -4890,8 +4890,8 @@
             "ageInYears": 23,
             "numberTreesHa": 224.36,
             "basalAreaM2Ha": 6.5878661,
-            "volumeWithBarkM3Ha": 11.5861395,
-            "volumeWithoutBarkM3Ha": 17.2194098
+            "volumeOverBarkM3Ha": 17.2194098,
+            "volumeUnderBarkM3Ha": 11.5861395
           },
           {
             "infoSpeciesId": "plot-47-628-Species26",
@@ -4902,8 +4902,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 0.5877724,
-            "volumeWithBarkM3Ha": 1.1149151,
-            "volumeWithoutBarkM3Ha": 1.9318704
+            "volumeOverBarkM3Ha": 1.9318704,
+            "volumeUnderBarkM3Ha": 1.1149151
           }
         ],
         "trees": [
@@ -4955,8 +4955,8 @@
             "ageInYears": 23,
             "numberTreesHa": 242.04,
             "basalAreaM2Ha": 13.7054947,
-            "volumeWithBarkM3Ha": 32.9180204,
-            "volumeWithoutBarkM3Ha": 47.337375
+            "volumeOverBarkM3Ha": 47.337375,
+            "volumeUnderBarkM3Ha": 32.9180204
           },
           {
             "infoSpeciesId": "plot-47-629-Species26",
@@ -4967,8 +4967,8 @@
             "ageInYears": 26,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 0.6083945,
-            "volumeWithBarkM3Ha": 1.7909918,
-            "volumeWithoutBarkM3Ha": 3.024207
+            "volumeOverBarkM3Ha": 3.024207,
+            "volumeUnderBarkM3Ha": 1.7909918
           }
         ],
         "trees": [
@@ -5018,8 +5018,8 @@
             "ageInYears": 23,
             "numberTreesHa": 5.09,
             "basalAreaM2Ha": 0.9082163,
-            "volumeWithBarkM3Ha": 1.6704214,
-            "volumeWithoutBarkM3Ha": 2.2683478
+            "volumeOverBarkM3Ha": 2.2683478,
+            "volumeUnderBarkM3Ha": 1.6704214
           },
           {
             "infoSpeciesId": "plot-47-630-Species26",
@@ -5030,8 +5030,8 @@
             "ageInYears": 26,
             "numberTreesHa": 103.68,
             "basalAreaM2Ha": 8.8769169,
-            "volumeWithBarkM3Ha": 31.00404,
-            "volumeWithoutBarkM3Ha": 45.6864626
+            "volumeOverBarkM3Ha": 45.6864626,
+            "volumeUnderBarkM3Ha": 31.00404
           }
         ],
         "trees": [
@@ -5075,8 +5075,8 @@
             "ageInYears": 23,
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.672398,
-            "volumeWithBarkM3Ha": 1.0567064,
-            "volumeWithoutBarkM3Ha": 1.5879117
+            "volumeOverBarkM3Ha": 1.5879117,
+            "volumeUnderBarkM3Ha": 1.0567064
           },
           {
             "infoSpeciesId": "plot-47-631-Species26",
@@ -5087,8 +5087,8 @@
             "ageInYears": 26,
             "numberTreesHa": 65.2,
             "basalAreaM2Ha": 4.0831036,
-            "volumeWithBarkM3Ha": 13.0897415,
-            "volumeWithoutBarkM3Ha": 20.0588048
+            "volumeOverBarkM3Ha": 20.0588048,
+            "volumeUnderBarkM3Ha": 13.0897415
           }
         ],
         "trees": [
@@ -5128,8 +5128,8 @@
             "ageInYears": 23,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 1.7615613,
-            "volumeWithBarkM3Ha": 5.6827776,
-            "volumeWithoutBarkM3Ha": 7.7078761
+            "volumeOverBarkM3Ha": 7.7078761,
+            "volumeUnderBarkM3Ha": 5.6827776
           },
           {
             "infoSpeciesId": "plot-47-639-Species26",
@@ -5140,8 +5140,8 @@
             "ageInYears": 26,
             "numberTreesHa": 65.21,
             "basalAreaM2Ha": 4.934205,
-            "volumeWithBarkM3Ha": 20.3758174,
-            "volumeWithoutBarkM3Ha": 27.67538
+            "volumeOverBarkM3Ha": 27.67538,
+            "volumeUnderBarkM3Ha": 20.3758174
           }
         ],
         "trees": [
@@ -5182,8 +5182,8 @@
             "ageInYears": 23,
             "numberTreesHa": 99.01,
             "basalAreaM2Ha": 8.4628767,
-            "volumeWithBarkM3Ha": 29.9527808,
-            "volumeWithoutBarkM3Ha": 41.2130403
+            "volumeOverBarkM3Ha": 41.2130403,
+            "volumeUnderBarkM3Ha": 29.9527808
           },
           {
             "infoSpeciesId": "plot-47-640-Species26",
@@ -5194,8 +5194,8 @@
             "ageInYears": 26,
             "numberTreesHa": 155.6,
             "basalAreaM2Ha": 12.9895022,
-            "volumeWithBarkM3Ha": 54.4879343,
-            "volumeWithoutBarkM3Ha": 79.4993649
+            "volumeOverBarkM3Ha": 79.4993649,
+            "volumeUnderBarkM3Ha": 54.4879343
           },
           {
             "infoSpeciesId": "plot-47-640-Species37",
@@ -5205,8 +5205,8 @@
             "scientificName": "Pinus pinaster",
             "numberTreesHa": 155.6,
             "basalAreaM2Ha": 12.9895022,
-            "volumeWithBarkM3Ha": 54.4879343,
-            "volumeWithoutBarkM3Ha": 79.4993649
+            "volumeOverBarkM3Ha": 79.4993649,
+            "volumeUnderBarkM3Ha": 54.4879343
           },
           {
             "infoSpeciesId": "plot-47-640-Species44",
@@ -5223,8 +5223,8 @@
             "scientificName": "Pinus pinaster",
             "numberTreesHa": 155.6,
             "basalAreaM2Ha": 12.9895022,
-            "volumeWithBarkM3Ha": 54.4879343,
-            "volumeWithoutBarkM3Ha": 79.4993649
+            "volumeOverBarkM3Ha": 79.4993649,
+            "volumeUnderBarkM3Ha": 54.4879343
           }
         ],
         "trees": [
@@ -5277,8 +5277,8 @@
             "ageInYears": 23,
             "numberTreesHa": 88.4,
             "basalAreaM2Ha": 5.9998485,
-            "volumeWithBarkM3Ha": 20.3683593,
-            "volumeWithoutBarkM3Ha": 27.9798392
+            "volumeOverBarkM3Ha": 27.9798392,
+            "volumeUnderBarkM3Ha": 20.3683593
           },
           {
             "infoSpeciesId": "plot-47-641-Species26",
@@ -5289,8 +5289,8 @@
             "ageInYears": 26,
             "numberTreesHa": 118.26,
             "basalAreaM2Ha": 9.5452485,
-            "volumeWithBarkM3Ha": 32.1293517,
-            "volumeWithoutBarkM3Ha": 47.9500633
+            "volumeOverBarkM3Ha": 47.9500633,
+            "volumeUnderBarkM3Ha": 32.1293517
           },
           {
             "infoSpeciesId": "plot-47-641-Species45",
@@ -5346,8 +5346,8 @@
             "ageInYears": 23,
             "numberTreesHa": 15.27,
             "basalAreaM2Ha": 2.3251414,
-            "volumeWithBarkM3Ha": 5.4064909,
-            "volumeWithoutBarkM3Ha": 7.3423626
+            "volumeOverBarkM3Ha": 7.3423626,
+            "volumeUnderBarkM3Ha": 5.4064909
           },
           {
             "infoSpeciesId": "plot-47-642-Species26",
@@ -5358,8 +5358,8 @@
             "ageInYears": 26,
             "numberTreesHa": 42.01,
             "basalAreaM2Ha": 2.2413298,
-            "volumeWithBarkM3Ha": 7.1366717,
-            "volumeWithoutBarkM3Ha": 10.7277471
+            "volumeOverBarkM3Ha": 10.7277471,
+            "volumeUnderBarkM3Ha": 7.1366717
           }
         ],
         "trees": [
@@ -5400,8 +5400,8 @@
             "ageInYears": 23,
             "numberTreesHa": 29.41,
             "basalAreaM2Ha": 4.3183834,
-            "volumeWithBarkM3Ha": 19.6072376,
-            "volumeWithoutBarkM3Ha": 25.8953394
+            "volumeOverBarkM3Ha": 25.8953394,
+            "volumeUnderBarkM3Ha": 19.6072376
           },
           {
             "infoSpeciesId": "plot-47-645-Species26",
@@ -5412,8 +5412,8 @@
             "ageInYears": 26,
             "numberTreesHa": 28.29,
             "basalAreaM2Ha": 2.1701215,
-            "volumeWithBarkM3Ha": 7.865831,
-            "volumeWithoutBarkM3Ha": 12.6416828
+            "volumeOverBarkM3Ha": 12.6416828,
+            "volumeUnderBarkM3Ha": 7.865831
           }
         ],
         "trees": [
@@ -5454,8 +5454,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.4560332,
-            "volumeWithBarkM3Ha": 4.632179,
-            "volumeWithoutBarkM3Ha": 6.3577778
+            "volumeOverBarkM3Ha": 6.3577778,
+            "volumeUnderBarkM3Ha": 4.632179
           },
           {
             "infoSpeciesId": "plot-47-646-Species26",
@@ -5466,8 +5466,8 @@
             "ageInYears": 26,
             "numberTreesHa": 353.67,
             "basalAreaM2Ha": 28.2546939,
-            "volumeWithBarkM3Ha": 100.3911127,
-            "volumeWithoutBarkM3Ha": 160.7683286
+            "volumeOverBarkM3Ha": 160.7683286,
+            "volumeUnderBarkM3Ha": 100.3911127
           }
         ],
         "trees": [
@@ -5528,8 +5528,8 @@
             "ageInYears": 23,
             "numberTreesHa": 88.4,
             "basalAreaM2Ha": 4.9408481,
-            "volumeWithBarkM3Ha": 8.3651866,
-            "volumeWithoutBarkM3Ha": 12.0357382
+            "volumeOverBarkM3Ha": 12.0357382,
+            "volumeUnderBarkM3Ha": 8.3651866
           },
           {
             "infoSpeciesId": "plot-47-647-Species26",
@@ -5540,8 +5540,8 @@
             "ageInYears": 26,
             "numberTreesHa": 61.67,
             "basalAreaM2Ha": 4.6000074,
-            "volumeWithBarkM3Ha": 13.0336793,
-            "volumeWithoutBarkM3Ha": 19.9510839
+            "volumeOverBarkM3Ha": 19.9510839,
+            "volumeUnderBarkM3Ha": 13.0336793
           }
         ],
         "trees": [
@@ -5586,8 +5586,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.8179885,
-            "volumeWithBarkM3Ha": 5.8017144,
-            "volumeWithoutBarkM3Ha": 7.8683364
+            "volumeOverBarkM3Ha": 7.8683364,
+            "volumeUnderBarkM3Ha": 5.8017144
           },
           {
             "infoSpeciesId": "plot-47-651-Species26",
@@ -5598,8 +5598,8 @@
             "ageInYears": 26,
             "numberTreesHa": 173.14,
             "basalAreaM2Ha": 19.113816,
-            "volumeWithBarkM3Ha": 79.7536173,
-            "volumeWithoutBarkM3Ha": 117.4847553
+            "volumeOverBarkM3Ha": 117.4847553,
+            "volumeUnderBarkM3Ha": 79.7536173
           }
         ],
         "trees": [
@@ -5653,8 +5653,8 @@
             "ageInYears": 26,
             "numberTreesHa": 107.5,
             "basalAreaM2Ha": 15.8008506,
-            "volumeWithBarkM3Ha": 79.8350594,
-            "volumeWithoutBarkM3Ha": 104.2644426
+            "volumeOverBarkM3Ha": 104.2644426,
+            "volumeUnderBarkM3Ha": 79.8350594
           },
           {
             "infoSpeciesId": "plot-47-654-Species23",
@@ -5665,8 +5665,8 @@
             "ageInYears": 23,
             "numberTreesHa": 30.54,
             "basalAreaM2Ha": 6.5806915,
-            "volumeWithBarkM3Ha": 31.9045885,
-            "volumeWithoutBarkM3Ha": 40.8362254
+            "volumeOverBarkM3Ha": 40.8362254,
+            "volumeUnderBarkM3Ha": 31.9045885
           }
         ],
         "trees": [
@@ -5728,8 +5728,8 @@
             "ageInYears": 23,
             "numberTreesHa": 155.6,
             "basalAreaM2Ha": 15.8046505,
-            "volumeWithBarkM3Ha": 54.547189,
-            "volumeWithoutBarkM3Ha": 74.5161195
+            "volumeOverBarkM3Ha": 74.5161195,
+            "volumeUnderBarkM3Ha": 54.547189
           },
           {
             "infoSpeciesId": "plot-47-656-Species26",
@@ -5740,8 +5740,8 @@
             "ageInYears": 26,
             "numberTreesHa": 45.97,
             "basalAreaM2Ha": 1.4544251,
-            "volumeWithBarkM3Ha": 3.9720991,
-            "volumeWithoutBarkM3Ha": 6.5657718
+            "volumeOverBarkM3Ha": 6.5657718,
+            "volumeUnderBarkM3Ha": 3.9720991
           }
         ],
         "trees": [
@@ -5789,8 +5789,8 @@
             "ageInYears": 23,
             "numberTreesHa": 25.45,
             "basalAreaM2Ha": 4.3632153,
-            "volumeWithBarkM3Ha": 18.8596723,
-            "volumeWithoutBarkM3Ha": 24.7495561
+            "volumeOverBarkM3Ha": 24.7495561,
+            "volumeUnderBarkM3Ha": 18.8596723
           },
           {
             "infoSpeciesId": "plot-47-661-Species26",
@@ -5801,8 +5801,8 @@
             "ageInYears": 26,
             "numberTreesHa": 42.43,
             "basalAreaM2Ha": 3.9412409,
-            "volumeWithBarkM3Ha": 20.7407299,
-            "volumeWithoutBarkM3Ha": 28.3663632
+            "volumeOverBarkM3Ha": 28.3663632,
+            "volumeUnderBarkM3Ha": 20.7407299
           }
         ],
         "trees": [
@@ -5845,8 +5845,8 @@
             "ageInYears": 23,
             "numberTreesHa": 91.94,
             "basalAreaM2Ha": 3.8241054,
-            "volumeWithBarkM3Ha": 6.8251134,
-            "volumeWithoutBarkM3Ha": 10.1835202
+            "volumeOverBarkM3Ha": 10.1835202,
+            "volumeUnderBarkM3Ha": 6.8251134
           },
           {
             "infoSpeciesId": "plot-47-662-Species26",
@@ -5857,8 +5857,8 @@
             "ageInYears": 26,
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.6642238,
-            "volumeWithBarkM3Ha": 0.9769506,
-            "volumeWithoutBarkM3Ha": 1.7002051
+            "volumeOverBarkM3Ha": 1.7002051,
+            "volumeUnderBarkM3Ha": 0.9769506
           }
         ],
         "trees": [
@@ -5898,8 +5898,8 @@
             "ageInYears": 26,
             "numberTreesHa": 53.73,
             "basalAreaM2Ha": 7.2573539,
-            "volumeWithBarkM3Ha": 31.2062904,
-            "volumeWithoutBarkM3Ha": 41.9220011
+            "volumeOverBarkM3Ha": 41.9220011,
+            "volumeUnderBarkM3Ha": 31.2062904
           },
           {
             "infoSpeciesId": "plot-47-665-Species23",
@@ -5910,8 +5910,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.4200574,
-            "volumeWithBarkM3Ha": 3.8497552,
-            "volumeWithoutBarkM3Ha": 5.3381639
+            "volumeOverBarkM3Ha": 5.3381639,
+            "volumeUnderBarkM3Ha": 3.8497552
           }
         ],
         "trees": [
@@ -5954,8 +5954,8 @@
             "ageInYears": 23,
             "numberTreesHa": 14.14,
             "basalAreaM2Ha": 1.5500132,
-            "volumeWithBarkM3Ha": 5.6536688,
-            "volumeWithoutBarkM3Ha": 7.6780027
+            "volumeOverBarkM3Ha": 7.6780027,
+            "volumeUnderBarkM3Ha": 5.6536688
           },
           {
             "infoSpeciesId": "plot-47-666-Species26",
@@ -5966,8 +5966,8 @@
             "ageInYears": 26,
             "numberTreesHa": 272.3,
             "basalAreaM2Ha": 18.1552513,
-            "volumeWithBarkM3Ha": 72.3710374,
-            "volumeWithoutBarkM3Ha": 110.535082
+            "volumeOverBarkM3Ha": 110.535082,
+            "volumeUnderBarkM3Ha": 72.3710374
           }
         ],
         "trees": [
@@ -6021,8 +6021,8 @@
             "ageInYears": 23,
             "numberTreesHa": 40.73,
             "basalAreaM2Ha": 8.0542881,
-            "volumeWithBarkM3Ha": 34.9331354,
-            "volumeWithoutBarkM3Ha": 45.3659213
+            "volumeOverBarkM3Ha": 45.3659213,
+            "volumeUnderBarkM3Ha": 34.9331354
           },
           {
             "infoSpeciesId": "plot-47-673-Species26",
@@ -6033,8 +6033,8 @@
             "ageInYears": 26,
             "numberTreesHa": 19.23,
             "basalAreaM2Ha": 1.9665497,
-            "volumeWithBarkM3Ha": 10.3934003,
-            "volumeWithoutBarkM3Ha": 14.0624349
+            "volumeOverBarkM3Ha": 14.0624349,
+            "volumeUnderBarkM3Ha": 10.3934003
           }
         ],
         "trees": [
@@ -6079,8 +6079,8 @@
             "ageInYears": 23,
             "numberTreesHa": 115.42,
             "basalAreaM2Ha": 13.4290786,
-            "volumeWithBarkM3Ha": 42.199676,
-            "volumeWithoutBarkM3Ha": 57.3161749
+            "volumeOverBarkM3Ha": 57.3161749,
+            "volumeUnderBarkM3Ha": 42.199676
           },
           {
             "infoSpeciesId": "plot-47-675-Species26",
@@ -6091,8 +6091,8 @@
             "ageInYears": 26,
             "numberTreesHa": 89.95,
             "basalAreaM2Ha": 7.1226877,
-            "volumeWithBarkM3Ha": 28.6667212,
-            "volumeWithoutBarkM3Ha": 41.4298504
+            "volumeOverBarkM3Ha": 41.4298504,
+            "volumeUnderBarkM3Ha": 28.6667212
           }
         ],
         "trees": [
@@ -6146,8 +6146,8 @@
             "ageInYears": 23,
             "numberTreesHa": 127.32,
             "basalAreaM2Ha": 1.2656132,
-            "volumeWithBarkM3Ha": 1.9635397,
-            "volumeWithoutBarkM3Ha": 2.9179095
+            "volumeOverBarkM3Ha": 2.9179095,
+            "volumeUnderBarkM3Ha": 1.9635397
           },
           {
             "infoSpeciesId": "plot-47-676-Species26",
@@ -6158,8 +6158,8 @@
             "ageInYears": 26,
             "numberTreesHa": 268.78,
             "basalAreaM2Ha": 4.9529354,
-            "volumeWithBarkM3Ha": 7.7253322,
-            "volumeWithoutBarkM3Ha": 14.3230258
+            "volumeOverBarkM3Ha": 14.3230258,
+            "volumeUnderBarkM3Ha": 7.7253322
           }
         ],
         "trees": [
@@ -6204,8 +6204,8 @@
             "ageInYears": 26,
             "numberTreesHa": 61.24,
             "basalAreaM2Ha": 4.6614734,
-            "volumeWithBarkM3Ha": 16.0462384,
-            "volumeWithoutBarkM3Ha": 23.2544123
+            "volumeOverBarkM3Ha": 23.2544123,
+            "volumeUnderBarkM3Ha": 16.0462384
           },
           {
             "infoSpeciesId": "plot-47-680-Species23",
@@ -6216,8 +6216,8 @@
             "ageInYears": 23,
             "numberTreesHa": 24.32,
             "basalAreaM2Ha": 2.8109647,
-            "volumeWithBarkM3Ha": 6.9642359,
-            "volumeWithoutBarkM3Ha": 9.4732024
+            "volumeOverBarkM3Ha": 9.4732024,
+            "volumeUnderBarkM3Ha": 6.9642359
           }
         ],
         "trees": [
@@ -6260,8 +6260,8 @@
             "ageInYears": 26,
             "numberTreesHa": 157.87,
             "basalAreaM2Ha": 15.0112333,
-            "volumeWithBarkM3Ha": 47.0128889,
-            "volumeWithoutBarkM3Ha": 67.7008623
+            "volumeOverBarkM3Ha": 67.7008623,
+            "volumeUnderBarkM3Ha": 47.0128889
           },
           {
             "infoSpeciesId": "plot-47-681-Species23",
@@ -6271,8 +6271,8 @@
             "scientificName": "Pinus pinea",
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.7612542,
-            "volumeWithBarkM3Ha": 1.6436891,
-            "volumeWithoutBarkM3Ha": 2.6950129
+            "volumeOverBarkM3Ha": 2.6950129,
+            "volumeUnderBarkM3Ha": 1.6436891
           },
           {
             "infoSpeciesId": "plot-47-681-Species45",
@@ -6330,8 +6330,8 @@
             "ageInYears": 23,
             "numberTreesHa": 65.21,
             "basalAreaM2Ha": 3.4940796,
-            "volumeWithBarkM3Ha": 8.0811477,
-            "volumeWithoutBarkM3Ha": 11.6971347
+            "volumeOverBarkM3Ha": 11.6971347,
+            "volumeUnderBarkM3Ha": 8.0811477
           },
           {
             "infoSpeciesId": "plot-47-684-Species26",
@@ -6342,8 +6342,8 @@
             "ageInYears": 26,
             "numberTreesHa": 31.83,
             "basalAreaM2Ha": 0.4623993,
-            "volumeWithBarkM3Ha": 0.6295025,
-            "volumeWithoutBarkM3Ha": 1.1072286
+            "volumeOverBarkM3Ha": 1.1072286,
+            "volumeUnderBarkM3Ha": 0.6295025
           }
         ],
         "trees": [
@@ -6383,8 +6383,8 @@
             "ageInYears": 23,
             "numberTreesHa": 10.18,
             "basalAreaM2Ha": 2.3342985,
-            "volumeWithBarkM3Ha": 7.3476333,
-            "volumeWithoutBarkM3Ha": 9.6151123
+            "volumeOverBarkM3Ha": 9.6151123,
+            "volumeUnderBarkM3Ha": 7.3476333
           },
           {
             "infoSpeciesId": "plot-47-685-Species26",
@@ -6395,8 +6395,8 @@
             "ageInYears": 26,
             "numberTreesHa": 205.11,
             "basalAreaM2Ha": 11.7006207,
-            "volumeWithBarkM3Ha": 34.7327819,
-            "volumeWithoutBarkM3Ha": 55.0278409
+            "volumeOverBarkM3Ha": 55.0278409,
+            "volumeUnderBarkM3Ha": 34.7327819
           }
         ],
         "trees": [
@@ -6445,8 +6445,8 @@
             "ageInYears": 23,
             "numberTreesHa": 95.75,
             "basalAreaM2Ha": 10.2919033,
-            "volumeWithBarkM3Ha": 42.1878789,
-            "volumeWithoutBarkM3Ha": 56.2771919
+            "volumeOverBarkM3Ha": 56.2771919,
+            "volumeUnderBarkM3Ha": 42.1878789
           },
           {
             "infoSpeciesId": "plot-47-699-Species26",
@@ -6457,8 +6457,8 @@
             "ageInYears": 26,
             "numberTreesHa": 39.6,
             "basalAreaM2Ha": 5.5292396,
-            "volumeWithBarkM3Ha": 24.3215735,
-            "volumeWithoutBarkM3Ha": 35.0663906
+            "volumeOverBarkM3Ha": 35.0663906,
+            "volumeUnderBarkM3Ha": 24.3215735
           }
         ],
         "trees": [

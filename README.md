@@ -45,15 +45,15 @@ Users are strongly encouraged to consult **METADATA.md** before using the data.
 ## Output formats
 
 ### GeoJSON
-- `plots_ifn2.json`  
+- `plots_ifn2.geojson`  
   Point features representing plots in SNFIv2.  
   
-- `trees_ifn2.json`  
+- `trees_ifn2.geojson`  
   Point features representing individual trees measured in SNFIv2.
-- `plots_ifn3.json`  
+- `plots_ifn3.geojson`  
   Point features representing plots in SNFIv3. 
 
-- `trees_ifn3.json`  
+- `trees_ifn3.geojson`  
   Point features representing individual trees measured in SNFIv3.
 
 ### CSV
